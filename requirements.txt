@@ -18,10 +18,11 @@ pyautogen
 pypdf
 pymupdf
 
-# pydantic
+pydantic
 
 langchain
 langchain-core
+langchain-community
 langchain-experimental
 langchain-cli
 langchain-mongodb
