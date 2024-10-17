@@ -18,6 +18,8 @@ pyautogen
 pypdf
 pymupdf
 
+pydantic
+
 langchain
 langchain-core
 langchain-experimental
