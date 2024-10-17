@@ -91,5 +91,8 @@ jinja2
 bitsandbytes 
 accelerate
 
+pi-heif
+unstructured-inference
+pytesseract
 pdfminer.six
 
