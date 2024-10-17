@@ -18,7 +18,7 @@ pyautogen
 pypdf
 pymupdf
 
-pydantic
+# pydantic
 
 langchain
 langchain-core
