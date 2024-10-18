@@ -6,16 +6,18 @@ python-dateutil
 
 setuptools
 
-langchain
-langchain-core
-langchain-experimental
-langchain-cli
-langchain-mongodb
-langchain-openai
+pydantic >= 2.9.2
 
-langserve[all]
+langchain >= 0.3.3
+langchain-core >= 0.3.12
+langchain-experimental >= 0.3.2
+langchain-cli >= 0.0.31
+langchain-mongodb >= 0.2.0
+langchain-openai >= 0.2.2
 
-jq
+langserve[all] >= 0.3.0
+
+jq >= 1.8.0
 
 unstructured
 python-magic
@@ -39,13 +41,13 @@ tasks
 
 cython
 
-pandas
-numpy
+pandas >= 2.2.3
+numpy >= 2.1.2
 
-langsmith
-langgraph
+langsmith >= 0.1.136
+langgraph >= 0.2.38
 
-semantic-kernel
+semantic-kernel >= 1.11.0
 
 # huggingface
 datasets
@@ -53,7 +55,8 @@ fastapi
 uvicorn[standard]
 sentence_transformers
 
-langchain-huggingface 
+huggingface >= 0.0.1
+langchain-huggingface >= 0.1.0
 text-generation 
 transformers 
 google-search-results 
@@ -67,10 +70,10 @@ accelerate
 pdfminer.six
 
 
-torch
+torch >= 2.5.0
 
-faiss-cpu
+faiss-cpu >= 1.9.0
 
-crewai
+crewai >= 0.70.1
 
 
