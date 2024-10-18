@@ -70,8 +70,10 @@ accelerate
 
 pdfminer.six
 
-
-torch >= 2.5.0
+fastai >= 2.7.17
+torch >= 2.4.0
+torchaudio >= 2.4.0
+torchvision >= 2.4.0
 
 faiss-cpu >= 1.9.0
 
