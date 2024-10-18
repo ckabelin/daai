@@ -77,6 +77,6 @@ torchvision == 0.19.0
 
 faiss-cpu >= 1.9.0
 
-crewai >= 0.70.1
+# crewai >= 0.70.1
 
 
