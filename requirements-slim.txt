@@ -13,9 +13,6 @@ langchain-cli
 langchain-mongodb
 langchain-openai
 
-langchain-chroma
-langchain-pinecone
-
 langserve[all]
 
 jq
