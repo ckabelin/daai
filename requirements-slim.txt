@@ -42,7 +42,7 @@ tasks
 cython
 
 pandas >= 2.2.3
-numpy >= 2.1.2
+# numpy >= 2.1.2
 
 langsmith >= 0.1.136
 langgraph >= 0.2.38
