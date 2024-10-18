@@ -53,7 +53,7 @@ semantic-kernel >= 1.11.0
 datasets
 fastapi
 uvicorn[standard]
-sentence_transformers
+sentence_transformers >= 3.2.0
 
 huggingface-hub >= 0.26.0
 huggingface >= 0.0.1
@@ -65,8 +65,8 @@ numexpr
 langchainhub 
 sentencepiece 
 jinja2 
-bitsandbytes 
-accelerate
+bitsandbytes >= 0.44.1
+accelerate >= 1.0.1
 
 pdfminer.six
 
